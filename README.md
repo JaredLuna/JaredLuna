@@ -1,4 +1,5 @@
 <div style="text-align: justify;">
+  
   # ¡Hola! Soy Jared Luna 👋
   
   Soy ingeniero en comunicaciones y electrónica con una fuerte pasión por la ciencia de datos y la programación. Durante la licenciatura, descubrí mi amor por Python al desarrollar un algoritmo de visión por computadora para calcular profundidad.
@@ -18,7 +19,7 @@
   
   ## Proyectos Destacados
   - [Proyecto 1](https://github.com/franciscoagamez/PF_google_yelp): En este proyecto analizamos bases de datos de Google Maps y Yelp para dar una recomendación de inversión en Los Angeles, California. Cuenta con EDA, ETL, Tecnología Cloud (GCP), Carga Incremental, ML OPS y visualización de datos en looker studio.
-  - [Proyecto 2]([https://github.com/tuusuario/proyecto2](https://github.com/JaredLuna/machine-learning-mercado-automotriz.git)): Generar un sistema de recomendación / predicción con ML para el sector automotriz chino.
+  - [Proyecto 2](https://github.com/JaredLuna/machine-learning-mercado-automotriz.git): Generar un sistema de recomendación / predicción con ML para el sector automotriz chino.
   
   ## Conéctate conmigo
   - [LinkedIn](linkedin.com/in/jared-augusto-luna-león-2b3640185)
@@ -28,6 +29,7 @@
 --------------------------------------------------------------------------
 
 <div style="text-align: justify;">
+  
   # Hello! I'm Jared Luna 👋
   
   I am an electronics and communications engineer with a strong passion for data science and programming. During my undergraduate studies, I discovered my love for Python while developing a computer vision algorithm to calculate depth.
