@@ -9,7 +9,7 @@
   He realizado proyectos relacionados a la ciencia de datos que involucran la realización de EDAs y ETLs, sistemas de machine learning y carga de datos en plataformas cloud.
   
   - 🤝 Busco colaborar en proyectos de ciencia de datos y automatización.
-  - 📫 Cómo contactarme: [Tu Email](mailto:jaredaugustolunaleon@gmail.com)
+  - 📫 Cómo contactarme: [jaredaugustolunaleon@gmail.com](mailto:jaredaugustolunaleon@gmail.com)
   - ⚡ Datos curiosos: ¡Soy un entusiasta de la mejora continua y el trabajo en equipo!
   
   ## Habilidades
